@@ -13,5 +13,6 @@ class Main {
         // get the element from the LinkedList
         String str = languages.get(1);
         System.out.print("Element at index 1: " + str);
+        num.add();
     }
 }
